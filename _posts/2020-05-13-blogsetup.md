@@ -1,3 +1,28 @@
-# Intial Blog Setup 
+# S1 : E1 End-to-End Machine Learning 
 
-This is the intial blog setup for the Pratical End-to-end machine learning series. This will contain various details about the blog which includes information about the implementing the machine learning system. 
+## Description 
+
+This is a series of various practical machine learning and data science techniques. The blog follows the book **Building Machine Learning Powered Applications** by *Emmanuel Ameisen*. The book is available on the O'reilly platform and the hard-copy of the book can be purchased on Amazon [link](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X). This blog will contain some of the important lessons learned from the book. 
+
+I will try to keep all the code and important information on github and will keep updating while reading the book. 
+
+This blog will be written in a form of episodes where I will try to cover some chapters in each episodes. 
+
+## Chapter 1 : From Product Goal to Machine Learning 
+
+This chapter starts with the basic introduction of machine learning techniques, it assumes to have basic understanding of the machine learning algorithms. It provides some details about different scenario where we should or shouldn't use machine learning algorithms. One scenario is whenever we can solve any problem with a deterministic approach we shouldn't use machine learning solution.
+
+Using this core concept in mind, we will design a ML assisted writing program which can help us writing like gmail autofill feature. 
+
+The best way to evaluate any ML application is by using two steps 
+1. ### Framing a product goal in an ML paradigm : 
+    Covert any problem that performance increase with data, basically we want to convert the problem into a **learning function from data**
+2. ### Evaluating ML feasibility : 
+    Choose a potential ML framing that can fit according to our problem. There are many existing ML framework are present, we have to choose something that can solve our problem efficiently.
+
+There are two core aspect of ML problem  : Data and Models
+
+1. ### Models
+
+
+
